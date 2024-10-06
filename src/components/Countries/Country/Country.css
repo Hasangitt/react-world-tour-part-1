@@ -1,0 +1,28 @@
+.country{
+    border: 5px solid lightgreen;
+    margin: 15px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+button{
+    padding: 10px;
+    border: 2px solid white;
+    border-radius: 6px;
+    margin-right: 5px;
+    background-color: black;
+    cursor: pointer;
+    margin-top: 10px;
+}
+button:hover{
+    border: 2px solid rgb(45, 45, 226);
+}
+
+.visited{
+    background-color: darkgreen;
+    color: lightcyan
+    
+}
+.visited-soon{
+    background-color: darkred;
+}
